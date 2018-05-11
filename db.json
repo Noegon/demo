@@ -10,5 +10,10 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "error": {
+    "errorCode": "SYSTEM_ERROR",
+    "errorDescription": "",
+    "CLASS_META_KEY": "PersonalizationError"
   }
 }
